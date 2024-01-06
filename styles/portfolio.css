@@ -16,6 +16,7 @@ nav{
     display: flex;
     justify-content: space-between;
     align-items: center;
+    margin: 0 200px;
 }
 
 .nav-title{
@@ -40,6 +41,11 @@ nav li{
   
 }
 
+
+.banner{padding:30px 30px 30px 150px;
+display: flex;
+align-item:center;}
+
 nav a{
     text-decoration: none;
     color:rgb(73, 66, 66);
@@ -55,3 +61,5 @@ nav a{
     font-weight: 700;
     padding:17px 35px;
 }
+
+.banner .profile-pic{width: 500px;}
